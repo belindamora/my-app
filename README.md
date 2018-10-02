@@ -1,3 +1,3 @@
 # my-app
 first repository
-This woul dbe my practive web application 
+This would be my practice web application 
